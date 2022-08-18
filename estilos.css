@@ -1,5 +1,5 @@
 .verde {
-    width: 600px;
+    width: 400px;
     margin: auto;
     background-color: white;
 }
@@ -9,7 +9,7 @@
 }
 .rojocabecera>.puntos {
   position:relative;
-  right: -482px;
+  right: -280px;
 }
 .rojoimagen img {
     width: 100%;
